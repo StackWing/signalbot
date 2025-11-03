@@ -1,7 +1,8 @@
 python-telegram-bot==20.8
 requests
-pandas
-numpy
-ta
-python-dotenv
 aiohttp==3.9.5
+websockets
+python-dotenv
+pandas
+ta
+httpx
