@@ -4,4 +4,4 @@ pandas
 numpy
 ta
 python-dotenv
-aiohttp
+aiohttp==3.9.5
