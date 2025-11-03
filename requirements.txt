@@ -4,3 +4,4 @@ pandas
 numpy
 ta
 python-dotenv
+aiohttp
